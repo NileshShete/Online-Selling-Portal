@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "note10",
+      "cname": "mi",
+      "id": 2
+    },
+    {
+      "name": "note11",
+      "cname": "mi",
+      "id": 3
+    },
+    {
+      "name": "note12",
+      "cname": "mi",
+      "id": 4
+    },
+    {
+      "name": "redmi note 8 pro",
+      "cname": "mi",
+      "id": 5
+    },
+    {
+      "name": "M31",
+      "cname": "Samsung",
+      "id": 6
+    },
+    {
+      "name": "M51",
+      "cname": "samsung",
+      "id": 7
+    },
+    {
+      "name": "Oppo 30A",
+      "cname": "oppo",
+      "price": "14999",
+      "id": 8
+    },
+    {
+      "name": "mi note 10 pro",
+      "cname": "mi",
+      "price": "17899",
+      "id": 9
+    },
+    {
+      "name": "redmi note 10 pro max",
+      "cname": "mi",
+      "price": "19999",
+      "id": 10
+    },
+    {
+      "name": "8i",
+      "cname": "realme",
+      "price": "12499",
+      "id": 11
+    },
+    {
+      "name": "moto g60",
+      "cname": "moto",
+      "price": "16499",
+      "id": 12
+    },
+    {
+      "name": "note10",
+      "cname": "mi",
+      "price": "12456",
+      "id": 13
+    },
+    {
+      "name": "i phone 12",
+      "cname": "Apple",
+      "price": "45000",
+      "id": 14
+    },
+    {
+      "name": "Mi 10 Prime",
+      "cname": "Mi",
+      "price": "14999",
+      "id": 15
+    },
+    {
+      "name": "note10",
+      "cname": "mi",
+      "price": "12899",
+      "id": 16
+    },
+    {
+      "name": "note10",
+      "cname": "mi",
+      "price": "11899",
+      "id": 17
+    },
+    {
+      "name": "Note 11 prime",
+      "cname": "Mi",
+      "price": "12499",
+      "id": 18
+    },
+    {
+      "name": "X3",
+      "cname": "POCO",
+      "price": "16899",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "note9",
+    "cname": "mi"
+  }
+}

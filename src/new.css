@@ -1,0 +1,27 @@
+.new1{
+    margin: 50px;
+}
+
+.hello1{
+
+    margin: 150px;
+}
+
+.hello2{
+    position: absolute;
+    left: 100px;
+}
+.hello5{
+    position: absolute;
+    left: 200px;
+}
+
+.hello3{
+    position: relative;
+    left: 150px;
+    top: -90px;
+}
+.hello4{
+    position: relative;
+    left: 50px;
+}
